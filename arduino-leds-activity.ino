@@ -31,7 +31,7 @@ void loop() {
    */
 
   // Fill the entire LED with a single color:
-  // fill_solid(leds, NUM_LEDs, CRGB::color);
+  // fill_solid(leds, NUM_LEDS, CRGB::color);
 
   // Fill the entire LED with a rainbow of colors:
   // fill_rainbow(leds, NUM_LEDS, initialhue, deltahue);
